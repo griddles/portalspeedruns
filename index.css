@@ -160,19 +160,6 @@ section:nth-of-type(even) {
     margin-top: 16px;
 }
 
-.me
-{
-    margin: 0;
-    padding: 0;
-    display: inline;
-    font-size: 1.4em;
-}
-
-.me > div
-{
-    margin-top: 12px;
-}
-
 .pfp
 {
     border-radius: 20%;
@@ -186,21 +173,6 @@ body {
 .fixheader
 {
     margin-left: 10%;
-}
-
-.cpw {
-    width: 47.5%;
-    max-width: 250px;
-}
-
-.tpz {
-    width: 97%;
-    max-width: 600px;
-}
-
-.uwr {
-    width:40%;
-    max-width:300px;
 }
 
 .scroll {
