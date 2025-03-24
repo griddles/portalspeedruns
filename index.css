@@ -71,7 +71,6 @@ a:active {
     z-index: 5;
 }
 
-
 .header ul {
     padding: 20px;
     margin: 0 auto;
@@ -91,6 +90,13 @@ a:active {
     text-decoration: none;
     font-weight: bold;
     transition: all 0.2s ease;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 18px;
+    font-size: 1em;
 }
 
 /* new */
