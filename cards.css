@@ -94,7 +94,7 @@ h1, h2, h3, h4, span {
 
 .card-image > i {
     font-size: 8em;
-    opacity: 0.1;
+    opacity: 0.25;
 }
 
 .card-info-wrapper {
