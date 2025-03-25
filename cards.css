@@ -9,7 +9,7 @@
     flex-wrap: wrap;
     flex-direction: row;
     gap: 8px;
-    max-width: var((--card-width * 2) + 8px);
+    max-width: 1008px;
     width: calc(100% - 20px);
     margin-top: 80px;
 }
