@@ -9,7 +9,7 @@
     flex-wrap: wrap;
     flex-direction: row;
     gap: 8px;
-    max-width: 1008px;
+    max-width: calc(var(--card-width) * 2 + 8px);
     width: calc(100% - 20px);
     margin-top: 80px;
 }
@@ -185,6 +185,7 @@ h1, h2, h3, h4, span {
     }
 }
 
+/* mobile */
 @media(hover: none) {
     .card {
         width: 100%;
